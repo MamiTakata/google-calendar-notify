@@ -1,0 +1,2 @@
+# google-calendar-notify
+Googleカレンダー変更されたらLINE通知を行うGASスクリプト
